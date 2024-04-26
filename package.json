@@ -33,7 +33,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@inquirer/confirm": "^0.0.12-alpha.0",
+    "@inquirer/confirm": "^0.1.0",
     "ansi-colors": "^4.1.1",
     "commander": "^7.2.0"
   },
